@@ -1,5 +1,4 @@
 # Pokedex.github.io
-Pokedéx - Utilizando HTML, css e JavaScript
 
 A Pokédex é uma ferramenta interativa desenvolvida com HTML, CSS e JavaScript que permite aos treinadores de Pokémon explorar e obter informações sobre diferentes espécies de Pokémon. Com um design atraente e funcionalidades intuitivas, a Pokedex oferece uma experiência envolvente para os fãs de Pokémon.
 
